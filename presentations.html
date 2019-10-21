@@ -1,0 +1,16 @@
+---
+layout: default
+title: Presentations
+permalink: /presentations/
+---
+
+{% assign presentations = site.presentations | sort: 'date' | reverse %}
+
+<ul class="presentations-list">
+	{% for presentation in presentations %}
+	<li class="presentation">
+		<a href="{{ presentation.url }}">{{ presentation.title }}</a>
+		<span class="date">{{ presentation.date | date: "%Y-%m-%d" }}</span>
+	</li>
+	{% endfor %}
+</ul>

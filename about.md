@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-> 
-
 # Who am I?
 
 - Mobile Client Developer
