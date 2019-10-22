@@ -9,7 +9,11 @@ permalink: /about/
 - Mobile Client Developer
 - Work at [VCNC](http://engineering.vcnc.co.kr/). Develop [TADA](https://tadatada.com/) & [Between](https://between.us)
 - Bachelor's degree, Computer Science and Engineering, Seoul National University
-- Married [Bolim Lee](https://www.facebook.com/profile.php?id=100010851340639) with lovely son Jun Kim
+
+# Family
+
+- Beautiful wife [Bolim Lee](https://www.facebook.com/profile.php?id=100010851340639)
+- Lovely son Jun Kim
 
 # External Articles
 
