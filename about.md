@@ -12,7 +12,7 @@ permalink: /about/
 
 # Family
 
-- Beautiful wife [Bolim Lee](https://www.facebook.com/profile.php?id=100010851340639)
+- Beautiful wife [Bolim Lee](https://www.instagram.com/rimbogram/)
 - Lovely son Jun Kim
 
 # External Articles
