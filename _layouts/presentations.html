@@ -2,9 +2,15 @@
 layout: default
 ---
 <div class="presentation">
-	{% if page.google_presentation %}
-	<section class="google-presentation">
-		<iframe src="https://docs.google.com/presentation/d/e/{{ page.google_presentation }}/embed?start=false&loop=false&delayms=60000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" />
+	<h1>{{ page.title }}</h1>
+	{%- if page.youtube -%}
+	<section class="youtube">
+		<iframe src="https://www.youtube.com/embed/{{ page.youtube }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</section>
-	{% endif %}
+	{%- endif -%}
+	{%- if page.google_presentation -%}
+	<section class="google-presentation">
+		<iframe src="https://docs.google.com/presentation/d/e/{{ page.google_presentation }}/embed?start=false&loop=false&delayms=60000" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+	</section>
+	{%- endif -%}
 </div>
