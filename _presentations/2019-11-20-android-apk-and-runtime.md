@@ -1,5 +1,5 @@
 ---
-layout: presentations
+layout: presentation
 title: Android APK & Runtime
 date: 2019-11-20
 event: 1st VCNC & SOCAR Client Workshop

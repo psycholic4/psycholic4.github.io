@@ -1,5 +1,5 @@
 ---
-layout: presentations
+layout: presentation
 title: Glitches of Mario
 date: 2016-12-22
 event: 1st VCNC Dev Workshop
